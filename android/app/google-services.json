@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341021462722",
+    "firebase_url": "https://uberflighter.firebaseio.com",
+    "project_id": "uberflighter",
+    "storage_bucket": "uberflighter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341021462722:android:2ac8c7eb10297239",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341021462722-ukqbl96ai8uk1g8mjt6ej4n5e6tij9hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.uber",
+            "certificate_hash": "8617758c4d992632e48323c6dded96d0b644dacc"
+          }
+        },
+        {
+          "client_id": "341021462722-3ko4d1llvmnb7oauqp0lhkrt0s56ahr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdmkZoLvoZBhsELeGzpozoEOc2ocFeG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341021462722-3ko4d1llvmnb7oauqp0lhkrt0s56ahr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
